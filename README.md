@@ -1,1 +1,2 @@
-# py-workshop 2022, Author: Mohammad Akradi
+# py-workshop 2022
+Author: Mohammad Akradi
